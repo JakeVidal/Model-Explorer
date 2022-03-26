@@ -104,12 +104,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Jake\Desktop\model_explorer\libraries\glm-0.9.9.8\glm;C:\Users\Jake\Desktop\model_explorer\libraries\glfw-3.3.2.bin.WIN64\include;C:\Users\Jake\Desktop\model_explorer\libraries\glew-2.1.0\include;..\libraries\glm-0.9.9.8\glm;..\libraries\glfw-3.3.2.bin.WIN64\include;..\libraries\glew-2.1.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Jake\Desktop\Model_Explorer\libraries\glm-0.9.9.8\glm;C:\Users\Jake\Desktop\Model_Explorer\libraries\glfw-3.3.2.bin.WIN64\include;C:\Users\Jake\Desktop\Model_Explorer\libraries\glew-2.1.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\Jake\Desktop\model_explorer\libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;C:\Users\Jake\Desktop\model_explorer\libraries\glew-2.1.0\lib\Release\x64;..\libraries\glfw-3.3.2.bin\WIN64\lib-vc2019;..\libraries\glew-2.1.0\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Jake\Desktop\Model_Explorer\libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;C:\Users\Jake\Desktop\Model_Explorer\libraries\glew-2.1.0\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glfw3.lib;glew32.lib;opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
     </Link>
