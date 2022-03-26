@@ -109,7 +109,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\Jake\Desktop\model_explorer\libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;C:\Users\Jake\Desktop\model_explorer\libraries\glew-2.1.0\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Jake\Desktop\model_explorer\libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;C:\Users\Jake\Desktop\model_explorer\libraries\glew-2.1.0\lib\Release\x64;..\libraries\glfw-3.3.2.bin\WIN64\lib-vc2019;..\libraries\glew-2.1.0\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glfw3.lib;glew32.lib;opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
     </Link>
